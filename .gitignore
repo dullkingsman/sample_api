@@ -1,0 +1,7 @@
+# IDE configuration directories
+.idea
+.vscode
+
+# Dependency directories
+node_modules/
+dist
